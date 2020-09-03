@@ -3,7 +3,8 @@ Pyhton編寫的樹苺派藍芽Server跟AppInventer製作的Android藍芽Client
 
 ## Server端程式執行
 於命令列中輸入
-  python3 ./BT_server.py
+
+    python3 ./BT_server.py
 
 ## APP Inventor 專案匯入
 
