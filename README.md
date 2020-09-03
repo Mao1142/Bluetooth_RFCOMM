@@ -31,6 +31,25 @@ Pyhton編寫的樹苺派藍芽Server跟AppInventer製作的Android藍芽Client
         bluetoothctl agent NoInputNoOutput
         bluetoothctl default-agent
 
+### 腳本製作
+輸入指令生成檔案並添加內容
+
+        sudo nano ./script
+        
+存檔關閉後輸入指令編譯
+
+        sudo chmod +x ./script
+        
+輸入指令開啟檔案
+
+        sudo nano /etc/rc.local
+        
+在exit0前輸入執行腳本指令
+        
+        sudo /hom/pi/script
+        
+重新啟動後將自動執行腳本
+
 ## Server端程式執行
 於命令列中輸入
 
