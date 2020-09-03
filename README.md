@@ -1,0 +1,2 @@
+# Bluetooth_RFCOMM_Server_Raspberry
+Pyhton編寫的藍芽Server
