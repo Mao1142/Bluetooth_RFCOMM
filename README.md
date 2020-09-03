@@ -1,2 +1,3 @@
-# Bluetooth_RFCOMM_Server_Raspberry
-Pyhton編寫的藍芽Server
+# Bluetooth_RFCOMM Server&Client
+Pyhton編寫的樹苺派藍芽Server
+AppInventer製作的Android藍芽Client
